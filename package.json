@@ -1,0 +1,16 @@
+{
+  "name": "lukas",
+  "displayName": "Lukas",
+  "description": "A clean light theme with good contrast and italics",
+  "version": "1.0.0",
+  "publisher": "lukas",
+  "engines": { "vscode": "^1.0.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [{
+      "label": "Lukas",
+      "uiTheme": "vs",
+      "path": "./themes/lukas-theme.json"
+    }]
+  }
+}
